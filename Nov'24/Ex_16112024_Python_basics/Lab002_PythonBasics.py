@@ -1,0 +1,5 @@
+print(2 / 2)
+print(2 - 2)
+print(2 + 2)
+print(2 * 2)
+print(94 / 5)
