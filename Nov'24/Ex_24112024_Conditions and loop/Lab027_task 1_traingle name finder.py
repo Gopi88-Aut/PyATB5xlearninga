@@ -1,0 +1,6 @@
+a=int(input("enter the side1\n"))
+b= int(input("enter the side2\n"))
+c= int(input ("enter the side3\n"))
+if a==b==c: print('it is Equilateral')
+elif a==b or a==c or b==c: print("it is isoceles")
+else: print ("it is scalene")
